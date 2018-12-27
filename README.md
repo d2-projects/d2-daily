@@ -5,6 +5,7 @@
 
 # Daily
 
+* [2018.12.27](https://github.com/d2-projects/d2-daily/blob/master/source/daily/2018/12/27.md)
 * [2018.12.26](https://github.com/d2-projects/d2-daily/blob/master/source/daily/2018/12/26.md)
 * [2018.12.25](https://github.com/d2-projects/d2-daily/blob/master/source/daily/2018/12/25.md)
 * [2018.12.24](https://github.com/d2-projects/d2-daily/blob/master/source/daily/2018/12/24.md)
