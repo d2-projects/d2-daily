@@ -1,6 +1,8 @@
 ![banner](https://raw.githubusercontent.com/d2-projects/d2-daily/master/source/image/banner@2x.png)
 
-[网站](https://awesome.fairyever.com/daily/) | [参与分享](https://juejin.im/post/5c1baa4a6fb9a049ca37516a) | [日报提交助手](https://awesome.fairyever.com/article/chrome-extension.html)
+[网站 https://awesome.fairyever.com/daily/](https://awesome.fairyever.com/daily/)
+
+**欢迎您使用 [日报提交助手](https://awesome.fairyever.com/article/chrome-extension.html) 参与日报分享**
 
 # Daily
 
