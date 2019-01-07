@@ -6,6 +6,7 @@
 
 # Daily
 
+* [2019.01.07](https://github.com/d2-projects/d2-daily/blob/master/source/daily/2019/01/07.md)
 * [2019.01.04](https://github.com/d2-projects/d2-daily/blob/master/source/daily/2019/01/04.md)
 * [2019.01.03](https://github.com/d2-projects/d2-daily/blob/master/source/daily/2019/01/03.md)
 * [2019.01.02](https://github.com/d2-projects/d2-daily/blob/master/source/daily/2019/01/02.md)
