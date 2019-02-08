@@ -28,7 +28,6 @@
     span {
       font-size: 12px;
       line-height: 14px;
-      background-color: #C0C4CC;
       color: #FFF;
       font-weight: bold;
       padding: 2px 4px;
@@ -63,7 +62,11 @@
     </p>
     <!-- 编程语言 -->
     <p v-if="lang" class="component__daily-item-lang">
-      <span v-for="lang in lang.split(',')" :key="lang">
+      <span
+        v-for="lang in lang.split(',')"
+        :key="lang"
+        class="github-language-color-base"
+        :class="lang.replace(/\+/g, 'plus')">
         {{lang}}
       </span>
     </p>

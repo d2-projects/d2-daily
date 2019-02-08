@@ -6,6 +6,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/resource/logo/normal.png' }],
     // 依赖样式
     ['link', { rel: 'stylesheet', href: '/library/hint.min.css' }],
+    ['link', { rel: 'stylesheet', href: '/library/github-language-colors.css' }],
     // 依赖的脚本
     ['script', { src: '/library/fontawesome-5.3.1.js' }]
   ],
