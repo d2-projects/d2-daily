@@ -1,0 +1,28 @@
+{
+  "name": "d2-daily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev site",
+    "build": "vuepress build site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d2-projects/d2-daily"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d2-projects/d2-daily/issues"
+  },
+  "homepage": "https://github.com/d2-projects/d2-daily#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.4",
+    "sass-loader": "^7.1.0"
+  },
+  "dependencies": {
+    "url": "^0.11.0",
+    "vuepress": "^1.0.0-alpha.30"
+  }
+}
