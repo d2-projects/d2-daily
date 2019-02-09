@@ -22,14 +22,12 @@ module.exports = {
     sidebar: [
       {
         title: '文章',
-        collapsable: false,
         children: [
           [ '/article/chrome-extension', '参与分享' ]
         ]
       },
       {
-        title: '日报',
-        collapsable: false,
+        title: '2019 年 01 月',
         path: '/daily/',
         children: [
           '/daily/2019/01/28',

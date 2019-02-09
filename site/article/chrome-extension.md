@@ -4,16 +4,18 @@
 
 此日报工具由 [d2-awesome](https://github.com/d2-projects/d2-awesome) 和 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 联合开发，您分享的项目将会在我们的日报和月刊上同时收录。
 
+::: tip 友情提醒
 HelloGitHub 仅接收 Github 开源项目提交。
+:::
 
 ## 下载
 
 请前往下述两个地址下载我们的日报提交工具：
 
-* [Google Chrome Web Store](https://chrome.google.com/webstore/detail/推荐到日报/afhhlfojfpchajfpjefojlojfgmmdbbc)
-* [下载离线安装文件](https://awesome.fairyever.com/chrome-extension/submit-helper.crx)
+* [在线安装：Google Chrome Web Store](https://chrome.google.com/webstore/detail/推荐到日报/afhhlfojfpchajfpjefojlojfgmmdbbc)
+* [离线安装文件](https://awesome.fairyever.com/chrome-extension/submit-helper.crx)
 
-如果您的网络环境不便于登录 Google Chrome Web Store，请选择 **下载离线安装文件**，下面的 “本地安装” 章节将带您完成安装步骤。
+由于一些众所周知的原因，如果您的网络环境不便于登录 Google Chrome Web Store，请选择 **下载离线安装文件**，下面的 “本地安装” 章节将带您完成安装步骤。
 
 ## 离线安装
 

@@ -66,7 +66,7 @@
         v-for="lang in lang.split(',')"
         :key="lang"
         class="github-language-color-base"
-        :class="lang.replace(/\+/g, 'plus')">
+        :class="lang2class(lang)">
         {{lang}}
       </span>
     </p>
@@ -126,6 +126,9 @@ export default {
   methods: {
     urlSimplify (u) {
       return url.parse(u).host
+    },
+    lang2class (lang) {
+      return lang.replace(/\+/g, 'plus').replace(/ /g, '_')
     }
   }
 }
