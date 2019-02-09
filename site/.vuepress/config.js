@@ -13,7 +13,13 @@ module.exports = {
     ['script', { src: '/library/fontawesome-5.3.1.js' }]
   ],
   plugins: [
-    [ '@vuepress/search', { searchMaxSuggestions: 10 } ]
+    [ '@vuepress/search', { searchMaxSuggestions: 10 } ],
+    [ 'vuepress-plugin-rss-support', {
+      site_url: 'https://daily.fairyever.com',
+      filter: page => /^\/daily\/201.+/.test(page.path),
+      copyright: 'D2 日报',
+      count: 100
+    } ]
   ],
   themeConfig: {
     docsDir: 'site',
