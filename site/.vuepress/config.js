@@ -22,17 +22,30 @@ module.exports = {
     sidebar: [
       {
         title: '文章',
+        collapsable: false,
         children: [
           [ '/article/chrome-extension', '参与分享' ]
         ]
       },
       {
         title: '2019 年 01 月',
-        path: '/daily/',
-        children: [
-          '/daily/2019/01/28',
-          '/daily/2019/01/25'
-        ]
+        collapsable: false,
+        children: [ '02', '03', '04', '07', '08', '10', '15', '17', '22', '25', '28' ].map(e => `/daily/2019/01/${e}`)
+      },
+      {
+        title: '2018 年 12 月',
+        collapsable: false,
+        children: [ '03', '04', '05', '06', '07', '10', '11', '12', '13', '17', '18', '19', '20', '21', '24', '25', '26', '27', '28' ].map(e => `/daily/2018/12/${e}`)
+      },
+      {
+        title: '2018 年 11 月',
+        collapsable: false,
+        children: [ '01', '02', '05', '06', '07', '08', '09', '12', '13', '14', '15', '16', '19', '20', '21', '22', '23', '26', '27', '28', '29' ].map(e => `/daily/2018/11/${e}`)
+      },
+      {
+        title: '2018 年 10 月',
+        collapsable: false,
+        children: [ '17', '18', '19', '22', '23', '24', '25', '26', '29', '30', '31' ].map(e => `/daily/2018/10/${e}`)
       }
     ]
   }

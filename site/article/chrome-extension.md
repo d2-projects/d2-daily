@@ -2,7 +2,7 @@
 
 本页面将带您完成日报推荐工具的安装。
 
-此日报工具由 [d2-awesome](https://github.com/d2-projects/d2-awesome) 和 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 联合开发，您分享的项目将会在我们的日报和月刊上同时收录。
+此日报工具由 [d2-daily](https://github.com/d2-projects/d2-daily) 和 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 联合开发，您分享的项目将会在我们的日报和月刊上同时收录。
 
 ::: tip 友情提醒
 HelloGitHub 仅接收 Github 开源项目提交。
