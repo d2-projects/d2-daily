@@ -6,17 +6,15 @@
 
 **发起 / 维护**
 
-* [FairyEver](https://github.com/FairyEver)
+[@FairyEver](https://github.com/FairyEver)
 
 **工具开发**
 
-* [@ishenyi](https://github.com/ishenyi)
-* [@521xueweihan](https://github.com/521xueweihan)
+[@ishenyi](https://github.com/ishenyi) [@521xueweihan](https://github.com/521xueweihan)
 
 **分享**
 
-* [@sunhaoxiang](https://github.com/sunhaoxiang)
-* [@Jiiiiiin](https://github.com/Jiiiiiin)
+[@sunhaoxiang](https://github.com/sunhaoxiang) [@Jiiiiiin](https://github.com/Jiiiiiin)
 
 ## 相关合作
 
