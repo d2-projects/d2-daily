@@ -19,8 +19,7 @@
   "homepage": "https://github.com/d2-projects/d2-daily#readme",
   "devDependencies": {
     "node-sass": "^4.9.4",
-    "sass-loader": "^7.1.0",
-    "vuepress-plugin-rss-support": "^1.1.1"
+    "sass-loader": "^7.1.0"
   },
   "dependencies": {
     "url": "^0.11.0",
