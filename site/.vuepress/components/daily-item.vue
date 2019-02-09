@@ -25,7 +25,11 @@
   }
   .component__daily-item-lang {
     margin: .5em 0;
-    span {
+    a {
+      &:link { text-decoration: none; }
+      &:active { text-decoration: none; }
+      &:visited { text-decoration: none; }
+      &:hover { text-decoration: none; }
       font-size: 12px;
       line-height: 14px;
       color: #FFF;
@@ -62,13 +66,15 @@
     </p>
     <!-- 编程语言 -->
     <p v-if="lang" class="component__daily-item-lang">
-      <span
+      <a
         v-for="lang in lang.split(',')"
         :key="lang"
+        :href="lang2githubSearchLink(lang)"
+        target="_blank"
         class="github-language-color-base"
         :class="lang2class(lang)">
         {{lang}}
-      </span>
+      </a>
     </p>
     <!-- 介绍 -->
     <blockquote v-if="note">
@@ -129,6 +135,9 @@ export default {
     },
     lang2class (lang) {
       return lang.replace(/\+/g, 'plus').replace(/ /g, '_')
+    },
+    lang2githubSearchLink (lang) {
+      return lang === 'Other' ? this.url : `${this.url}/search?l=${encodeURIComponent(lang)}`
     }
   }
 }
