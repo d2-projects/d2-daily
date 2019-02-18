@@ -21,7 +21,7 @@ module.exports = {
   themeConfig: {
     docsDir: 'site',
     nav: [
-      { text: '日报', link: '/daily/' },
+      { text: '日报', link: '/post/' },
       { text: '参与分享', link: '/article/chrome-extension' }
     ],
     sidebar: [
