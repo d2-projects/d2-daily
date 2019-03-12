@@ -16,9 +16,13 @@
 
 [@sunhaoxiang](https://github.com/sunhaoxiang) [@Jiiiiiin](https://github.com/Jiiiiiin)
 
-## 相关合作
+## 鸣谢 / 相关开源合作
 
 * [掘金](https://juejin.im)
 * [即刻 | JitHub圈子](https://m.okjike.com/topics/55e02198dcef9f0e00d7b3c3)
 * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 * [飞冰](https://github.com/alibaba/ice/)
+
+## Build
+
+<img src="https://www.travis-ci.org/d2-projects/d2-daily.svg?branch=master" alt="travis">
