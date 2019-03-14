@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/d2-projects/d2-daily#readme",
   "devDependencies": {
+    "@vssue/vuepress-plugin-vssue": "^0.7.5",
     "node-sass": "^4.9.4",
     "sass-loader": "^7.1.0"
   },

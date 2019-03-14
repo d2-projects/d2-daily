@@ -15,9 +15,29 @@ module.exports = {
     // 统计代码
     ['script', {}, 'var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?fec739493bdcbae03ff2154ede1ed6c7";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm, s);})();']
   ],
-  plugins: [
-    [ '@vuepress/search', { searchMaxSuggestions: 10 } ]
-  ],
+  plugins: {
+    '@vuepress/search': {
+      searchMaxSuggestions: 10
+    },
+    '@vssue/vuepress-plugin-vssue': {
+      // 设置 `platform` 而不是 `api`
+      platform: 'github',
+      // 其他的 Vssue 配置
+      owner: 'd2-projects',
+      repo: 'd2-daily',
+      clientId: '2fc98522b635381f22fd',
+      clientSecret: 'c12231fa6f8d9938c999053e0d09cb425e9a3183',
+      labels: [
+        'Comment'
+      ],
+      prefix: '📮 ',
+      perPage: 20,
+      admins: [
+        'FairyEver'
+      ],
+      locale: 'zh'
+    }
+  },
   themeConfig: {
     docsDir: 'site',
     nav: [

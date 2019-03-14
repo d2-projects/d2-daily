@@ -23,6 +23,4 @@
 * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 * [飞冰](https://github.com/alibaba/ice/)
 
-## Build
-
-<img src="https://www.travis-ci.org/d2-projects/d2-daily.svg?branch=master" alt="travis">
+<Vssue title="首页" />
