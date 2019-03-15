@@ -39,6 +39,7 @@ module.exports = {
     }
   },
   themeConfig: {
+    activeHeaderLinks: false,
     docsDir: 'site',
     nav: [
       { text: '日报', link: '/post/' },
