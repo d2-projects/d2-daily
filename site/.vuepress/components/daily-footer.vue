@@ -1,5 +1,3 @@
 <template>
-  <div>
-    <Vssue :title="$page.title" />
-  </div>
+  <div></div>
 </template>
