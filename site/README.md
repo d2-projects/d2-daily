@@ -22,6 +22,12 @@
 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 [飞冰](https://github.com/alibaba/ice/)
 
+## 👨‍💻 创作者联盟
+
+<a href='https://union.zhaodao.ai/#random' target='_blank'><img src='https://union.zhaodao.ai/icon.black.svg' width="25" height="25"></a>
+
+> 创作者联盟是 [找到AI](https://zhaodao.ai/) 发起的致力于构建更加繁荣的互联网创作生态的流量共享项目，我们期望中国本土的创作者可以共同“戴上” Makers Union - 创作者联盟指环，以共享彼此的流量
+
 ## 💰 捐赠
 
 [@sivenlee](https://github.com/sivenlee)
