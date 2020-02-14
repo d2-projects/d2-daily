@@ -32,25 +32,25 @@
 
 1. 点击 Chrome 右上角菜单中的 “扩展程序” 选项，进入扩展管理页面：
 
-![](https://qiniucdn.fairyever.com/20181226093951.png)
+![](https://cdn.d2.pub/files/image-hosting/20181226093951.png)
 
 2. 请确保右上角的 “开发者模式” 为打开状态。如果之前没有打开，请打开后重启 Chrome：
 
-![](https://qiniucdn.fairyever.com/20181226094136.png)
+![](https://cdn.d2.pub/files/image-hosting/20181226094136.png)
 
 3. 将您下载到的 [submit-helper.crx](https://awesome.fairyever.com/chrome-extension/submit-helper.crx) 文件拖动到 **Chrome 扩展页面** 中：
 
-![](https://qiniucdn.fairyever.com/20181226103156.png)
+![](https://cdn.d2.pub/files/image-hosting/20181226103156.png)
 
 > 如果提示程序包无效，请参考文末提供的解决办法。
 
 4. 选择 “添加扩展程序”：
 
-![](https://qiniucdn.fairyever.com/20181226103203.png)
+![](https://cdn.d2.pub/files/image-hosting/20181226103203.png)
 
 5. 安装成功：
 
-![](https://qiniucdn.fairyever.com/20181226103209.png)
+![](https://cdn.d2.pub/files/image-hosting/20181226103209.png)
 
 ## 🎮 使用
 
@@ -58,15 +58,15 @@
 
 1. 在您想分享的页面上点击右键，选择所属分类：
 
-![](https://qiniucdn.fairyever.com/20181226094155.png)
+![](https://cdn.d2.pub/files/image-hosting/20181226094155.png)
 
 2. 适当修改信息：
 
-![](https://qiniucdn.fairyever.com/20181226094200.png)
+![](https://cdn.d2.pub/files/image-hosting/20181226094200.png)
 
 3. 分享成功！
 
-![](https://qiniucdn.fairyever.com/20181226094203.png)
+![](https://cdn.d2.pub/files/image-hosting/20181226094203.png)
 
 ## ⚠️ 提示程序包无效的解决办法
 

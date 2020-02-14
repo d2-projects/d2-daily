@@ -1,7 +1,7 @@
 <template>
   <div class="daily-footer">
     <a class="daily-footer--image" href="https://github.com/d2-projects/d2-admin">
-      <img src="https://qiniucdn.fairyever.com/20190416234219.png" alt="d2-admin">
+      <img src="https://cdn.d2.pub/files/image-hosting/20190416234219.png" alt="d2-admin">
     </a>
   </div>
 </template>
