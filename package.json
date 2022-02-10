@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/d2-projects/d2-daily#readme",
   "devDependencies": {
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0"
   },
   "dependencies": {
